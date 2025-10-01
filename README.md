@@ -1,6 +1,9 @@
 ## Book
 - [ゼロから作るDeep Learning](https://www.oreilly.co.jp/books/9784873117584/)
 - [GitHub](https://github.com/oreilly-japan/deep-learning-from-scratch)
+- Purchase Date: 000000 (DRMfree)
+
+<img src="https://www.oreilly.co.jp/books/images/picture_large978-4-87311-758-4.jpeg" height="150px">
 
 ## CheckList
 - [ ] 1章　Python入門
